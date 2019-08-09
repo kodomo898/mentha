@@ -1,0 +1,66 @@
+          ok  Starting native_osx for sync eccube-sync
+          ok  eccube-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: eccube-sync
+[2019-07-05 01:04:05 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 01:04:05.62 on 05 Jul 2019
+[2019-07-05 01:04:05 +0900] Sync Log:  [BGN] Copying .docker-sync/daemon.log from /host_sync to /app_sync
+[2019-07-05 01:04:05 +0900] Sync Log:  [END] Copying .docker-sync/daemon.log
+[2019-07-05 01:04:05 +0900] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2019-07-05 01:04:05 +0900] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2019-07-05 01:04:05 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 01:04:05.63 on 05 Jul 2019
+[2019-07-05 01:04:05 +0900] Sync Log:  Synchronization complete at 01:04:05  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync eccube-sync
+          ok  eccube-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: eccube-sync
+[2019-08-08 14:17:56 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:17:56.35 on 08 Aug 2019
+[2019-08-08 14:17:56 +0900] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2019-08-08 14:17:56 +0900] Sync Log:  Failed: The source file /host_sync/.docker-sync/daemon.log
+[2019-08-08 14:17:56 +0900] Sync Log:  has been modified during synchronization.  Transfer aborted.
+[2019-08-08 14:17:56 +0900] Sync Log:  [BGN] Updating file .docker-sync/daemon.pid from /host_sync to /app_sync
+[2019-08-08 14:17:56 +0900] Sync Log:  [END] Updating file .docker-sync/daemon.pid
+[2019-08-08 14:17:56 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:17:56.36 on 08 Aug 2019
+[2019-08-08 14:17:56 +0900] Sync Log:  Synchronization incomplete at 14:17:56  (1 item transferred, 0 skipped, 1 failed)
+[2019-08-08 14:17:56 +0900] Sync Log:    failed: .docker-sync/daemon.log
+[2019-08-08 14:17:57 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:17:57.46 on 08 Aug 2019
+[2019-08-08 14:17:57 +0900] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2019-08-08 14:17:57 +0900] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2019-08-08 14:17:57 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:17:57.47 on 08 Aug 2019
+[2019-08-08 14:17:57 +0900] Sync Log:  Synchronization complete at 14:17:57  (1 item transferred, 0 skipped, 0 failed)
+[2019-08-08 14:31:29 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:31:28.78 on 08 Aug 2019
+[2019-08-08 14:31:29 +0900] Sync Log:  [BGN] Updating file docker-sync.yml from /host_sync to /app_sync
+[2019-08-08 14:31:29 +0900] Sync Log:  [END] Updating file docker-sync.yml
+[2019-08-08 14:31:29 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:31:28.79 on 08 Aug 2019
+[2019-08-08 14:31:29 +0900] Sync Log:  Synchronization complete at 14:31:28  (1 item transferred, 0 skipped, 0 failed)
+[2019-08-08 14:31:39 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:31:38.21 on 08 Aug 2019
+[2019-08-08 14:31:39 +0900] Sync Log:  [BGN] Updating file docker-sync.yml from /host_sync to /app_sync
+[2019-08-08 14:31:39 +0900] Sync Log:  [END] Updating file docker-sync.yml
+[2019-08-08 14:31:39 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:31:38.21 on 08 Aug 2019
+[2019-08-08 14:31:39 +0900] Sync Log:  Synchronization complete at 14:31:38  (1 item transferred, 0 skipped, 0 failed)
+[2019-08-08 16:03:03 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 16:03:03.35 on 08 Aug 2019
+[2019-08-08 16:03:03 +0900] Sync Log:  [BGN] Updating file docker-sync.yml from /host_sync to /app_sync
+[2019-08-08 16:03:03 +0900] Sync Log:  [END] Updating file docker-sync.yml
+[2019-08-08 16:03:03 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 16:03:03.35 on 08 Aug 2019
+[2019-08-08 16:03:03 +0900] Sync Log:  Synchronization complete at 16:03:03  (1 item transferred, 0 skipped, 0 failed)
+[2019-08-08 16:03:44 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 16:03:43.86 on 08 Aug 2019
+[2019-08-08 16:03:44 +0900] Sync Log:  [BGN] Updating file docker-compose.yml from /host_sync to /app_sync
+[2019-08-08 16:03:44 +0900] Sync Log:  [END] Updating file docker-compose.yml
+[2019-08-08 16:03:44 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 16:03:43.86 on 08 Aug 2019
+[2019-08-08 16:03:44 +0900] Sync Log:  Synchronization complete at 16:03:43  (1 item transferred, 0 skipped, 0 failed)
+    shutdown  Shutting down...
+          ok  Stopping sync container eccube-sync
+          ok  Starting native_osx for sync eccube-sync-2
+          ok  eccube-sync-2 container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: eccube-sync-2
+[2019-08-08 23:10:09 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:10:08.94 on 08 Aug 2019
+[2019-08-08 23:10:09 +0900] Sync Log:  [BGN] Updating file vendor/ocramius/package-versions/src/PackageVersions/Versions.php from /app_sync to /host_sync
+[2019-08-08 23:10:09 +0900] Sync Log:  [END] Updating file vendor/ocramius/package-versions/src/PackageVersions/Versions.php
+[2019-08-08 23:10:09 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:10:09.01 on 08 Aug 2019
+[2019-08-08 23:10:09 +0900] Sync Log:  Synchronization complete at 23:10:09  (1 item transferred, 0 skipped, 0 failed)
